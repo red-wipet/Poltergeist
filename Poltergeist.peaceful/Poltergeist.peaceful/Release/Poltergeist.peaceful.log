@@ -1,0 +1,42 @@
+﻿  Poltergeist.peaceful.cpp
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(157,7): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(167,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(172,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(228,11): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(231,18): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(238,18): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(240,18): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(242,18): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(318,17): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(378,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(379,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(367,11): warning C4101: rgbquadCopy: неиспользованная локальная переменная
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(447,12): warning C4244: инициализация: преобразование "FLOAT" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(448,12): warning C4244: инициализация: преобразование "FLOAT" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(451,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(457,17): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(516,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(518,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(522,33): warning C4244: +=: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(579,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(581,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(585,33): warning C4244: +=: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(648,12): warning C4244: инициализация: преобразование "FLOAT" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(649,12): warning C4244: инициализация: преобразование "FLOAT" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(652,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(658,17): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(716,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(717,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(703,11): warning C4101: rgbquadCopy: неиспользованная локальная переменная
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(785,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(786,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(769,11): warning C4101: rgbquadCopy: неиспользованная локальная переменная
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(853,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(854,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Poltergeist.peaceful\Poltergeist.peaceful.cpp(842,11): warning C4101: rgbquadCopy: неиспользованная локальная переменная
+  Создание кода
+  1 of 17 functions ( 5.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Poltergeist.peaceful.vcxproj -> C:\Users\mrsuperbuddy\source\repos\Poltergeist.peaceful\Release\Poltergeist.peaceful.exe
