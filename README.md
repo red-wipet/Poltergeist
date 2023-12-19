@@ -1,2 +1,2 @@
 # Poltergeist
-I quitting malware development
+I don't quitting malware development
